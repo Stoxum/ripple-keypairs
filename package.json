@@ -1,7 +1,7 @@
 {
-  "name": "ripple-keypairs",
+  "name": "stoxum-keypairs",
   "version": "0.10.1",
-  "description": "ripple key pairs",
+  "description": "stoxum key pairs",
   "files": [
     "distrib/npm/*",
     "bin/*",
@@ -18,7 +18,7 @@
     "brorand": "^1.0.5",
     "elliptic": "^5.1.0",
     "hash.js": "^1.0.3",
-    "ripple-address-codec": "^2.0.1"
+    "stoxum-address-codec": "^2.0.1"
   },
   "devDependencies": {
     "assert-diff": "^1.0.1",
@@ -35,7 +35,7 @@
     "map-stream": "~0.1.0",
     "mocha": "~2.3.3",
     "nock": "^2.13.0",
-    "ripple-lib": "^0.17.0"
+    "stoxum-lib": "^0.17.0"
   },
   "scripts": {
     "build": "gulp",
@@ -48,15 +48,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ripple/ripple-keypairs.git"
+    "url": "git://github.com/Stoxum/stoxum-keypairs.git"
   },
   "engines": {
     "node": ">=0.12.0"
   },
   "bugs": {
-    "url": "https://github.com/ripple/ripple-keypairs/issues"
+    "url": "https://github.com/Stoxum/stoxum-keypairs/issues"
   },
-  "homepage": "https://github.com/ripple/ripple-keypairs#readme",
+  "homepage": "https://github.com/Stoxum/stoxum-keypairs#readme",
   "license": "ISC",
   "readmeFilename": "README.md"
 }

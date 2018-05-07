@@ -1,4 +1,4 @@
-# ripple-keypairs [![NPM](https://img.shields.io/npm/v/ripple-keypairs.svg)](https://npmjs.org/package/ripple-keypairs) [![Build Status](https://img.shields.io/travis/ripple/ripple-keypairs/master.svg)](https://travis-ci.org/ripple/ripple-keypairs) [![codecov.io](http://codecov.io/github/ripple/ripple-keypairs/coverage.svg?branch=master)](http://codecov.io/github/ripple/ripple-keypairs?branch=master)
+# stoxum-keypairs [![NPM](https://img.shields.io/npm/v/stoxum-keypairs.svg)](https://npmjs.org/package/stoxum-keypairs) [![Build Status](https://img.shields.io/travis/stoxum/stoxum-keypairs/master.svg)](https://travis-ci.org/stoxum/stoxum-keypairs) [![codecov.io](http://codecov.io/github/stoxum/stoxum-keypairs/coverage.svg?branch=master)](http://codecov.io/github/stoxum/stoxum-keypairs?branch=master)
 
 An implementation of ripple keypairs & wallet generation using
 [elliptic](https://github.com/indutny/elliptic) which supports rfc6979 and
